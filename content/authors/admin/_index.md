@@ -120,21 +120,21 @@ I am an undergraduate student majoring in Software Engineering at Detroit Mercy 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
-## Research Interests
+## **Research Interests**
 
-• XAI
-• Multi-Agent System
-• Computational Argumentation
-• Formal Method
-• Clinical Decision Support System
+- XAI
+- Multi-Agent System
+- Computational Argumentation
+- Formal Method
+- Clinical Decision Support System
 
-## 项目
+## Publication & Research
 
-### 项目名称 1
+- [ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes](https://arxiv.org/abs/2403.06294)
 
-- **描述：** 这是我开发的一个[项目类型]，用于[项目的功能或目的]。
-- **技术栈：** React.js, Node.js, MongoDB
-- **链接：** [项目链接]
+Shengxin Hong et al., 2024
+
+Full paper submitted to IJCAI 2024.
 
 ### 项目名称 2
 
