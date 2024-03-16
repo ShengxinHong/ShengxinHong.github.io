@@ -131,9 +131,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Publication & Research
 
 - [ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes](https://arxiv.org/abs/2403.06294)
-
 Shengxin Hong et al., 2024
-
 Full paper submitted to IJCAI 2024.
 
 ### 项目名称 2
