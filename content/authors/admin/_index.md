@@ -116,7 +116,7 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [XiuYi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use formal methods to empower machines with logical reasoning and agents interaction, allowing for arguments and counter-arguments that provide them with reasons for their decisions. Beyond that, I've been actively exploring the intersection of machine learning and traditional symbol-based methods for building Explainable Artificial Intelligence (XAI). Recently, I have focused on Large Language Models as Agents (LLM Agents) and enhancing the clinical reasoning capabilities of LLM Agents through multi-agent interaction, argumentation framework, etc.
+I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use formal methods to empower machines with logical reasoning and agents interaction, allowing for arguments and counter-arguments that provide them with reasons for their decisions. Beyond that, I've been actively exploring the intersection of machine learning and traditional symbol-based methods for building Explainable Artificial Intelligence (XAI). Recently, I have focused on Large Language Models as Agents (LLM Agents) and enhancing the clinical reasoning capabilities of LLM Agents through multi-agent interaction, argumentation framework, etc.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
@@ -130,16 +130,16 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research
 
-- [ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
+- [**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
   - The iterative process of self-argumentation by multiple LLMs Agents is formalised into an abstract argumentation framework, and a set of reasonable, conflict-free arguments are identified by a symbolic solver as support for clinical decision. This approach effectively improves the accuracy and explainability of large language models in clinical tasks with complex reasoning
   - **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen
   - Full paper submitted to IJCAI 2024.
 
-- [Probabilistic Deduction as Solution for Probabilistic Abstract Decision Problem] [*Working Manuscript*]
+- **Probabilistic Deduction as Solution for Probabilistic Abstract Decision Problem** [*Working Manuscript*]
   - This study proposed the probabilistic extension of abstract decision problems (PADF) and three decision criteria are defined based on decision theory. On the other hand, this study explores how to map the PADF into probabilistic rules and introduces the concept of Rule Probabilistic Satisfiability (Rule-PSAT) to solve the consistent probability distributions of all the sentences in order to get a good decision
-  - **Shengxin Hong**, et al.
+  - Working in Nanyang Technological University with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665)
 
-- [An Interaction Model for Merging Multi-Agent Argumentation in Shared Clinical Decision Making](https://ieeexplore.ieee.org/abstract/document/10386040)
+- [**An Interaction Model for Merging Multi-Agent Argumentation in Shared Clinical Decision Making**](https://ieeexplore.ieee.org/abstract/document/10386040)
   - This paper construct a cognitive representation model of agents supporting the computational task of argumentation and propose a novel interactive argumentation framework merging method based on it as a solution for shared decision support in healthcare environment.
   - **Shengxin Hong**, Liang Xiao
   - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
