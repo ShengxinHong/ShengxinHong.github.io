@@ -120,6 +120,8 @@ I am an undergraduate student majoring in Software Engineering at Detroit Mercy 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
+<span style="color:red">[Highlight]</span> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!
+
 ## **Research Interests**
 
 - XAI
