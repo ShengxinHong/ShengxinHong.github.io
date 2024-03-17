@@ -142,6 +142,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   - Working in Nanyang Technological University with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665)
 
 - [**An Interaction Model for Merging Multi-Agent Argumentation in Shared Clinical Decision Making**](https://ieeexplore.ieee.org/abstract/document/10386040)
-  - This paper construct a cognitive representation model of agents supporting the computational task of argumentation and propose a novel interactive argumentation framework merging method based on it as a solution for shared decision support in healthcare environment.
+  - This paper construct a cognitive representation model of agents supporting the computational task of argumentation and propose a novel interactive argumentation framework merging method based on it as a solution for shared decision support in healthcare environment and introduces lightweight social calculus (LSC) to specify the interaction protocol between agents.
   - **Shengxin Hong**, Liang Xiao
   - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
