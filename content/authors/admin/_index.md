@@ -128,8 +128,18 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Formal Method
 - Clinical Decision Support System
 
-## Publication & Research
+## Research
 
-- [ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes](https://arxiv.org/abs/2403.06294)
-  - Shengxin Hong et al., arxiv
+- [ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
+  - The iterative process of self-argumentation by multiple LLMs Agents is formalised into an abstract argumentation framework, and a set of reasonable, conflict-free arguments are identified by a symbolic solver as support for clinical decision. This approach effectively improves the accuracy and explainability of large language models in clinical tasks with complex reasoning
+  - **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen
   - Full paper submitted to IJCAI 2024.
+
+- [Probabilistic Deduction as Solution for Probabilistic Abstract Decision Problem] [*Working Manuscript*]
+  - This study proposed the probabilistic extension of abstract decision problems (PADF) and three decision criteria are defined based on decision theory. On the other hand, this study explores how to map the PADF into probabilistic rules and introduces the concept of Rule Probabilistic Satisfiability (Rule-PSAT) to solve the consistent probability distributions of all the sentences in order to get a good decision
+  - **Shengxin Hong**, et al.
+
+- [An Interaction Model for Merging Multi-Agent Argumentation in Shared Clinical Decision Making](https://ieeexplore.ieee.org/abstract/document/10386040)
+  - This paper construct a cognitive representation model of agents supporting the computational task of argumentation and propose a novel interactive argumentation framework merging method based on it as a solution for shared decision support in healthcare environment.
+  - **Shengxin Hong**, Liang Xiao
+  - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
