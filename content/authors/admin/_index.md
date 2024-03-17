@@ -128,7 +128,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Formal Method
 - Clinical Decision Support System
 
-## Research
+## **Research**
 
 - [**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
   - The iterative process of self-argumentation by multiple LLMs Agents is formalised into an abstract argumentation framework, and a set of reasonable, conflict-free arguments are identified by a symbolic solver as support for clinical decision. This approach effectively improves the accuracy and explainability of large language models in clinical tasks with complex reasoning
