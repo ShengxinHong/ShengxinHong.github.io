@@ -6,8 +6,8 @@ title: Shengxin Hong
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shengxin
-last_name: Hong
+first_name: 'Shengxin','shengxin'
+last_name: 'Hong','hong'
 
 # Status emoji
 status:
@@ -116,7 +116,17 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use formal methods to empower machines with logical reasoning and agents interaction, allowing for arguments and counter-arguments that provide them with reasons for their decisions. Beyond that, I've been actively exploring the intersection of machine learning and traditional symbol-based methods for building Explainable Artificial Intelligence (XAI). Recently, I have focused on Large Language Models as Agents (LLM Agents) and enhancing the clinical reasoning capabilities of LLM Agents through multi-agent interaction, argumentation framework, etc.
+I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use formal methods to empower machines with logical reasoning and agents interaction, allowing for arguments and counter-arguments that provide them with reasons for their decisions. 
+
+I focus on logic-based techniques in order to explore the following problems:
+
+(i) How to design AI agents so that human-agent or agent-agent interactions and co-operation can be more natural.
+
+(ii) Explore more effective formal methods for dealing with multi-agents argumentation and apply it to various domains (e.g., healthcare, law, finance).
+
+(iii) Large Language Model as Agent, 
+
+Beyond that, I've been actively exploring the intersection of machine learning and traditional symbol-based methods for building Explainable Artificial Intelligence (XAI). Recently, I have focused on Large Language Models as Agents (LLM Agents) and enhancing the clinical reasoning capabilities of LLM Agents through multi-agent interaction, argumentation framework, etc.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
