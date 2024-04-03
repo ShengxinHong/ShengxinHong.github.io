@@ -120,11 +120,14 @@ I am an undergraduate student majoring in Software Engineering at Detroit Mercy 
 
 I focus on symbolic-based techniques in order to explore the following problems:
 
-1. How to design Explainable AI agents so that human-agent or agent-agent interactions and co-operation can be more natural.
+1. How to design Explainable AI agents so that human-agent or agent-agent inter- actions and co-operation can be more natural.
+
 
 2. Explore more effective formal methods for dealing with multi-agents argumentation and apply it to various domains (e.g., healthcare, law, finance).
 
+
 3. Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
+
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
