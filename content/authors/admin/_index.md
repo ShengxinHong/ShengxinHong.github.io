@@ -118,7 +118,7 @@ highlight_name: true
 
 I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use formal methods to empower machines with logical reasoning and agents interaction, allowing for arguments and counter-arguments that provide them with reasons for their decisions. 
 
-I focus on logic-based techniques in order to explore the following problems:
+I focus on symbolic-based techniques in order to explore the following problems:
 
 1. How to design Explainable AI agents so that human-agent or agent-agent interactions and co-operation can be more natural.
 
