@@ -120,11 +120,11 @@ I am an undergraduate student majoring in Software Engineering at Detroit Mercy 
 
 I focus on logic-based techniques in order to explore the following problems:
 
-(i) How to design Explainable AI agents so that human-agent or agent-agent interactions and co-operation can be more natural.
+    (i) How to design Explainable AI agents so that human-agent or agent-agent interactions and co-operation can be more natural.
 
-(ii) Explore more effective formal methods for dealing with multi-agents argumentation and apply it to various domains (e.g., healthcare, law, finance).
+    (ii) Explore more effective formal methods for dealing with multi-agents argumentation and apply it to various domains (e.g., healthcare, law, finance).
 
-(iii) Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
+    (iii) Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
@@ -132,7 +132,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## **Research Interests**
 
-- Multi-Agent System
+- Multi-Agents System
 - Explainable AI
 - Computational Argumentation
 - Formal Method
