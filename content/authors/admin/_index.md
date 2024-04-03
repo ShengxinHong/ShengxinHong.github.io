@@ -120,13 +120,11 @@ I am an undergraduate student majoring in Software Engineering at Detroit Mercy 
 
 I focus on logic-based techniques in order to explore the following problems:
 
-(i) How to design AI agents so that human-agent or agent-agent interactions and co-operation can be more natural.
+(i) How to design Explainable AI agents so that human-agent or agent-agent interactions and co-operation can be more natural.
 
 (ii) Explore more effective formal methods for dealing with multi-agents argumentation and apply it to various domains (e.g., healthcare, law, finance).
 
-(iii) Large Language Model as Agent, 
-
-Beyond that, I've been actively exploring the intersection of machine learning and traditional symbol-based methods for building Explainable Artificial Intelligence (XAI). Recently, I have focused on Large Language Models as Agents (LLM Agents) and enhancing the clinical reasoning capabilities of LLM Agents through multi-agent interaction, argumentation framework, etc.
+(iii) Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
@@ -134,11 +132,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## **Research Interests**
 
-- XAI
 - Multi-Agent System
+- Explainable AI
 - Computational Argumentation
 - Formal Method
-- Clinical Decision Support System
+- Decision
 
 ## **Research**
 
@@ -152,6 +150,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   - Working in Nanyang Technological University with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665)
 
 - [**An Interaction Model for Merging Multi-Agent Argumentation in Shared Clinical Decision Making**](https://ieeexplore.ieee.org/abstract/document/10386040)
-  - This paper construct a cognitive representation model of agents supporting the computational task of argumentation and propose a novel interactive argumentation framework merging method based on it as a solution for shared decision support in healthcare environment and introduces lightweight social calculus (LSC) to specify the interaction protocol between agents.
+  - The aim of this paper is to address the shared decision support in healthcare environments by exploring how cognitively inconsistent agents can reach decision consensus through interaction. This paper propose a novel interactive argumentation framework merging method and introduces lightweight social calculus (LSC) to specify the interaction protocol between agents.
   - **Shengxin Hong**, Liang Xiao
   - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
