@@ -6,8 +6,8 @@ title: Shengxin Hong
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: 'Shengxin','shengxin'
-last_name: 'Hong','hong'
+first_name: 'Shengxin'
+last_name: 'Hong'
 
 # Status emoji
 status:
