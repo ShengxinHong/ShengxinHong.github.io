@@ -154,5 +154,5 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - [**An Interaction Model for Merging Multi-Agent Argumentation in Shared Clinical Decision Making**](https://ieeexplore.ieee.org/abstract/document/10386040)
   - The aim of this paper is to address the shared decision support in healthcare environments by exploring how cognitively inconsistent agents can reach decision consensus through interaction. This paper propose a novel interactive argumentation framework merging method and introduces lightweight social calculus (LSC) to specify the interaction protocol between agents.
-  - **Shengxin Hong**, Liang Xiao
+  - **Shengxin Hong**, Liang Xiao, Jianxia Chen
   - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
