@@ -124,7 +124,7 @@ I focus on logic-based techniques in order to explore the following problems:
 
 2. Explore more effective formal methods for dealing with multi-agents argumentation and apply it to various domains (e.g., healthcare, law, finance).
 
-. Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
+3. Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
 
