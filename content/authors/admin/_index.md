@@ -157,4 +157,3 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   - **Shengxin Hong**, Liang Xiao, Jianxia Chen
   - 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)
 
-  <meta name="google-site-verification" content="SoqQ41yZGTMF10TtBoOAyyC9spRKOX5PZKhhdKgSw68" />
