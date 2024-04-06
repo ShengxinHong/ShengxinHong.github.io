@@ -144,7 +144,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## **Research**
 
 - [**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
-  - This study proposes a multi-LLMs agent interaction framework called ArgMed-Agents, which aims to facilitate mutual argumentation iterations of LLMs agents through argumentation scheme and formalise the process into an abstract argumentation framework. Ultimately, a set of reasonable and conflict-free arguments are identified by the symbolic solver agents as support for clinical decision. This approach effectively improves the accuracy and explainability of large language models for complex reasoning clinical tasks.
+  - This study proposes a multi-LLMs-agent interaction framework called ArgMed-Agents, which aims to translate the argumentation process of LLMs agents into a formal abstract argumentation framework through argumentation scheme, and then identify a set of reasonable and non-conflicting arguments through a symbolic solver, which can be used as a support for clinical decision-making. This approach effectively improves the accuracy and explainability of large language models for complex clinical reasoning tasks.
   - **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen
   - Full paper submitted to IJCAI 2024.
 
