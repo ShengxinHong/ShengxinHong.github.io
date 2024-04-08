@@ -116,14 +116,14 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use formal methods to empower machines with logical reasoning and agents interaction, allowing for arguments and counter-arguments that provide explaination for their decisions. 
+I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use symbolic techniques to empower agents with logical reasoning and interaction, allowing for arguments and counter-arguments that provide explaination for their decisions. 
 
-I focus on symbolic-based techniques in order to explore the following problems:
+I focus on exploring the following problems:
 
-1. How to design Explainable AI agents to facilitate more natural human-agent or agent-agent interactions and cooperations.
+1. How to design Explainable AI agents that can engage and cooperate with humans in a manner that is as intuitive and natural as human-to-human interaction (especially argumentation interactions).
 
 
-2. Explore more effective formal methods for dealing with multi-agents argumentation and apply it to various domains (e.g., healthcare, law, finance).
+2. Explore more effective formal models for dealing with multi-agents interaction and apply it to various domains (e.g., healthcare, law, finance).
 
 
 3. Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
@@ -136,10 +136,10 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## **Research Interests**
 
 - Multi-Agents System
-- Explainable AI
 - Computational Argumentation
-- Formal Method
-- Decision
+- Formal Model
+- Decision Theory
+- Explainable AI
 
 ## **Research**
 
