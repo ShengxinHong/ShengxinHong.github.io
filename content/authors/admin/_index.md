@@ -116,17 +116,17 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use symbolic techniques to empower agents with logical reasoning and interaction, allowing for arguments and counter-arguments that provide explaination for their decisions. 
+I am an undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University. My research interest is in Multi-Agents System and Knowledge Representation and Reasoning. Specifically, I use symbolic techniques to empower agents with logical reasoning and interaction, to provide explaination for their decisions. 
 
-I focus on exploring the following problems:
+I focus on exploring the following domains:
 
-1. How to design Explainable AI agents that can engage and cooperate with humans in a manner that is as intuitive and natural as human-to-human interaction (especially argumentation interactions).
-
-
-2. Explore more effective formal models for dealing with multi-agents interaction and apply it to various domains (e.g., healthcare, law, finance).
+1. Design Explainable AI agents that can engage and cooperate with humans in a manner that is as intuitive and natural as human-to-human interaction (especially argumentation interactions).
 
 
-3. Large Language Model as Agent, how to enhance the logical reasoning capabilities of LLMs Agents. <span style="color:blue">[recently interest]</span>
+2. Explore more effective formal models for dealing with multi-agents interaction and its applications (e.g., in healthcare, law, finance).
+
+
+3. Large Language Model as Agent, multiple LLM agents interaction and enhance the logical reasoning with LLM. <span style="color:blue">[recently interest]</span>
 
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at-(seikin.shengxinhong@gmail.com).
@@ -137,20 +137,23 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - Multi-Agents System
 - Computational Argumentation
+- Knowledge Representation and Reasoning
 - Formal Model
 - Decision Theory
 - Explainable AI
 
 ## **Research**
 
-- [**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
-  - This study proposes a multi-LLMs-agent interaction framework called ArgMed-Agents, which aims to translate the argumentation process of LLMs agents into a formal abstract argumentation framework through argumentation scheme, and then identify a set of reasonable and non-conflicting arguments through a symbolic solver, which can be used as a support for clinical decision-making. This approach effectively improves the accuracy and explainability of large language models for complex clinical reasoning tasks.
-  - **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen
-  - Full paper submitted to IJCAI 2024.
+- **On Modeling Multi-Criteria Decision Making with Uncertain Information using Probabilistic Rules.** [*Preprint Paper*]
+  - In this study, we have studied the decision-making problem when faced with uncertainty, a common scenario in many real-world situations. We introduce the Probabilistic Abstract Decision Frameworks (PADF) as a novel approach. Through PADF, we've developed three distinct decision criteria to help select the best course of action when uncertainty is present. Our method involves linking PADF with Probabilistic Deduction (PD), revealing a meaningful connection between the two. This connection allows us to simplify computational approaches for resolving consistent probability distributions under different decision criteria, making the process less complex. By taking an argumentative perspective, our work not only addresses uncertainty in decision-making but also provides a structured framework for deductive reasoning.
+  - **Shengxin Hong**, Xiuyi Fan
+  -Full paper is under review on The 10th International Conference on Computational Models of Argument.
 
-- **Probabilistic Deduction as Solution for Probabilistic Abstract Decision Problem** [*Working Manuscript*]
-  - This study proposed the probabilistic extension of abstract decision problems (PADF) and three decision criteria are defined based on decision theory. On the other hand, we explores how to map the PADF into probabilistic rules and introduces the concept of Rule Probabilistic Satisfiability (Rule-PSAT) to solve the consistent probability distributions of all the sentences in order to get a good decision.
-  - Working in Nanyang Technological University with Professor [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665)
+- [**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
+  - This paper porposed process the process of formally modeling multi-LLMs-agents debates as a abstract argumentation framework. Experiments show that this approach can adapt LLMs to complex clinical reasoning tasks and improve explainability.
+  - **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen
+  - Full paper is under review on IJCAI Human-Centred AI track 2024.
+
 
 - [**An Interaction Model for Merging Multi-Agent Argumentation in Shared Clinical Decision Making**](https://ieeexplore.ieee.org/abstract/document/10386040)
   - The aim of this paper is to address the shared decision support in healthcare environments by exploring how cognitively inconsistent agents can reach decision consensus through interaction. This paper propose a novel interactive argumentation framework merging method and introduces lightweight social calculus (LSC) to specify the interaction protocol between agents.
