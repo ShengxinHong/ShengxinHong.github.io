@@ -150,7 +150,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
   - Full paper is under review on The 10th International Conference on Computational Models of Argument.
 
 - [**ArgMed-Agents: Explainable Clinical Decision Reasoning with Large Language Models via Argumentation Schemes**](https://arxiv.org/abs/2403.06294) [*Preprint Paper*]
-  - This paper porposed process the process of formally modeling multi-LLMs-agents debates as a abstract argumentation framework. Experiments show that this approach can adapt LLMs to complex clinical reasoning tasks and improve explainability.
+  - This paper porposed process of formally modeling multi-LLMs-agents debates as a abstract argumentation framework that can identify a set of coherent, non-conflicting arguments by symbolic solver.. Experiments show that this approach can adapt LLMs to complex clinical reasoning tasks and improve explainability.
   - **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen
   - Full paper is under review on IJCAI Human-Centred AI track 2024.
 
