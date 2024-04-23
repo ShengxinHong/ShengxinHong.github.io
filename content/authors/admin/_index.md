@@ -144,7 +144,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## **Research**
 
-- **On Modeling Multi-Criteria Decision Making with Uncertain Information using Probabilistic Rules.** [*Preprint Paper*]
+- [**On Modeling Multi-Criteria Decision Making with Uncertain Information using Probabilistic Rules**](https://arxiv.org/abs/2404.13419) [*Preprint Paper*]
   - In this study, we have studied the decision-making problem when faced with uncertainty, a common scenario in many real-world situations. We introduce the Probabilistic Abstract Decision Frameworks (PADF) as a novel approach. Through PADF, we've developed three distinct decision criteria to help select the best course of action when uncertainty is present. Our method involves linking PADF with Probabilistic Deduction (PD), revealing a meaningful connection between the two. This connection allows us to simplify computational approaches for resolving consistent probability distributions under different decision criteria, making the process less complex. By taking an argumentative perspective, our work not only addresses uncertainty in decision-making but also provides a structured framework for deductive reasoning.
   - **Shengxin Hong**, Xiuyi Fan
   - Full paper is under review on The 10th International Conference on Computational Models of Argument.
