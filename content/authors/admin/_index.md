@@ -138,9 +138,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Multi-Agents System
 - Computational Argumentation
 - Knowledge Representation and Reasoning
-- Formal Model
-- Decision Theory
-- Explainable AI
+- Formal Language
 
 ## **Research**
 
