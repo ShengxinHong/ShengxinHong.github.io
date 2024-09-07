@@ -22,12 +22,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Shengxin Hong"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : ""
-  location         : "Beijing, China"
+  avatar           : "images/shengxin.jpg"
+  bio              : "Detroit Mercy University and Hubei University of Technology (joint degree), Software Engineering"
+  location         : ""
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=14K4m28AAAAJ&hl=en"
   email            : "Seikin.Shengxinhong@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
