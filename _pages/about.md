@@ -28,15 +28,8 @@ My research interests lie at the intersection of Explainable AI (XAI) and multi-
 
 # 📝 Academic Papers
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/EAAI.png' alt="sym" width="100%">
-    </div>
-  </div>
-  <div class='paper-box-text' markdown="1">
-  </div>
-</div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/EAAI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 
 [``My Grade is Wrong!'': A Contestable AI Framework for Providing Interactive Feedback to Students](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
