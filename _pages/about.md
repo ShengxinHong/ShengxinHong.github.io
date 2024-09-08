@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <div class='paper-box-text' markdown="1">
 
 
-[``My Grade is Wrong!'': A Contestable AI Framework for Providing Interactive Feedback to Students](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[``My Grade is Wrong!'': A Contestable AI Framework for Providing Interactive Feedback to Students](main.pdf)
 
 **Shengxin Hong**, Chang Cai, Sixuan Du, Haiyue Feng, Francesca Toni, Xiuyi Fan
 <div style="color: blue;">Submitted to EAAI-25-AAAI</div>
