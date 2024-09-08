@@ -40,11 +40,14 @@ My research interests lie at the intersection of Explainable AI (XAI) and multi-
 </div>
 </div>
 
-- [Reconciling Explanations in Multi-Model Systems through Probabilistic Argumentation](https://arxiv.org/abs/2404.13419), **Shengxin Hong**, Xiuyi Fan, <div style="color: blue;">axXiv Preprint</div>
+- [Reconciling Explanations in Multi-Model Systems through Probabilistic Argumentation](https://arxiv.org/abs/2404.13419), **Shengxin Hong**, Xiuyi Fan, 
+<div style="color: blue;">axXiv Preprint</div>
 
-- [ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Disscusion via Argumentation Schemes](https://arxiv.org/abs/2403.06294), **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen, <div style="color: blue;">Accepted in BIBM 2024</div>
+- [ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Disscusion via Argumentation Schemes](https://arxiv.org/abs/2403.06294), **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen, 
+<div style="color: blue;">Accepted in BIBM 2024</div>
 
 # 📖 Experiences
-- *2023.11 - Present*, Research Assistant (Remote), Nanyang Technological University (NTU), Singapore.
-
+- *2023.11 - Present*, Research Assistant (Remote), Nanyang Technological University (NTU), Singapore. 
 Advisor: Prof. [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665).
+
+
