@@ -25,6 +25,9 @@ My research interests lie at the intersection of Explainable AI (XAI) and multi-
 - Autonomous Agent: Integrating symbolic logic techniques (formal reasoning, argumentation, and KR) to develop robust AI agents (especially Large Language Models as Agent) that can engage ,cooperate and debate with other agents in a manner that is as intuitive and natural as human-to-human interaction.
 - LLMs for Reasoning: Generalizing LLMs to complex reasoning scenarios based on neural-symbolic approaches.
 
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - [seikin.shengxinhong@gmail.com](mailto:seikin.shengxinhong@gmail.com).
+
+<span style="color:red">[Highlight]</span> I am actively looking for PhD position to start in 2025 Fall. Contact me if you have any leads!
 
 # 📝 Academic Papers
 
@@ -41,10 +44,14 @@ My research interests lie at the intersection of Explainable AI (XAI) and multi-
 </div>
 
 - [Reconciling Explanations in Multi-Model Systems through Probabilistic Argumentation](https://arxiv.org/abs/2404.13419), **Shengxin Hong**, Xiuyi Fan, 
-<div style="color: blue;">axXiv Preprint</div>
+<ul style="list-style-type:none;">
+  <li><div style="color: blue;">axXiv Preprint</div></li>
+</ul>
 
 - [ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Disscusion via Argumentation Schemes](https://arxiv.org/abs/2403.06294), **Shengxin Hong**, Liang Xiao, Xin Zhang, Jianxia Chen, 
-<div style="color: blue;">Accepted in BIBM 2024</div>
+<ul style="list-style-type:none;">
+  <li><div style="color: blue;">Accepted in BIBM 2024</div></li>
+</ul>
 
 # 📖 Experiences
 - *2023.11 - Present*, Research Assistant (Remote), Nanyang Technological University (NTU), Singapore. 
