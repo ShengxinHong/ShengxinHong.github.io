@@ -22,7 +22,7 @@ Hi there, I am Shengxin Hong. I am a senior undergraduate student majoring in So
 My research interests lie at the intersection of Explainable AI (XAI) and multi-agent systems. In the past, I've been focused on the goal of designing contestable AI systems that are open to human intervention and responsive to disputes (human-machine and machine-machine). Specifically, I explored the following domains:
 
 - AI for Education: Designing interactive human-AI systems for application in educational environments, in order to provide effective, safe and explainable automated assessment scoring and feedback to students.
-- Autonomous Agent: Integrating symbolic logic techniques (formal reasoning, argumentation, and KR) to develop robust AI agents (especially Large Language Models as Agent) that can engage ,cooperate and debate with other agents in a manner that is as intuitive and natural as human-to-human interaction.
+- Autonomous Agent: Integrating symbolic logic techniques (formal reasoning, argumentation, and KR) to develop robust AI agents that can engage ,cooperate and debate with other agents in a manner that is as intuitive and natural as human-to-human interaction.
 - LLMs for Reasoning: Generalizing LLMs to complex reasoning scenarios based on neural-symbolic approaches.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - [seikin.shengxinhong@gmail.com](mailto:seikin.shengxinhong@gmail.com).
@@ -52,6 +52,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <ul style="list-style-type:none;">
   <li><div style="color: blue;">Accepted in BIBM 2024</div></li>
 </ul>
+
 
 # 📖 Experiences
 - *2023.11 - Present*, Research Assistant (Remote), Nanyang Technological University (NTU), Singapore. 
