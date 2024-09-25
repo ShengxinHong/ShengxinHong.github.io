@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <div class='paper-box-text' markdown="1">
 
 
-[``My Grade is Wrong!'': A Contestable AI Framework for Providing Interactive Feedback to Students](main.pdf)
+[``My Grade is Wrong!'': A Contestable AI Framework for Providing Interactive Feedback to Students](https://arxiv.org/abs/2409.07453)
 
 **Shengxin Hong**, Chang Cai, Sixuan Du, Haiyue Feng, Siyuan Liu, Xiuyi Fan
 <div style="color: blue;">Submitted to EAAI-25-AAAI</div>
