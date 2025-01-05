@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there, I am Shengxin Hong. I am a senior undergraduate student majoring in Software Engineering at Detroit Mercy University and Hubei University of Technology (joint degree). Currently, I am a research assistant with Prof. [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University (NTU).
+Hi there, I am Shengxin Hong. I am a senior undergraduate student majoring in Software Engineering at University of Detroit Mercy and Hubei University of Technology ( joint Bachelor’s degree). Currently, I am a research assistant with Prof. [Xiuyi Fan](https://dr.ntu.edu.sg/cris/rp/rp01665) at Nanyang Technological University (NTU).
 
 My research interests lie at the intersection of Explainable AI (XAI) and multi-agent systems. In the past, I've been focused on the goal of designing contestable AI systems that are open to human intervention and responsive to disputes (human-machine and machine-machine). Specifically, I explored the following domains:
 
